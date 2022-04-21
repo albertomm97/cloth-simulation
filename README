@@ -1,0 +1,5 @@
+1.
+Use CMake to generate the Visual Studio 2019 Project Files for your platform configuration
+2.
+As a second option the pregenerated project could work for you using the following folder
+C:\UTAD\UTAD-SIM01-Cloth
